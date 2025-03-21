@@ -1,0 +1,26 @@
+2025-03-21 | 17:36:00 - fail to list file and sub-direct in 'nak'
+2025-03-21 | 17:43:13 - list file and sub-direct in '/home/vathanak'
+2025-03-21 | 17:45:43 - list file and sub-direct in '/mnt/c/Users/User/Desktop/mini_project_os'
+2025-03-21 | 17:47:38 - list file and sub-direct in '.'
+2025-03-21 | 18:04:36 - Failed to back up from: 'mnt/c/Users/User/Desktop/mini_project_os' (source does not exist)
+2025-03-21 | 18:04:54 - Failed to back up from: '.' to '.'
+2025-03-21 | 18:05:25 - Successfully backed up from: '.' to '/mnt/c/Users/User/Desktop'
+2025-03-21 | 18:08:32 - fail to list file and sub-direct in 'k'
+2025-03-21 | 18:15:01 - Succeeded in counting files in '.'
+2025-03-21 | 18:15:32 - Failed to back up from: '' (source does not exist)
+2025-03-21 | 18:15:37 - list file and sub-direct in '.'
+2025-03-21 | 18:15:44 - Succeeded in counting files in '.'
+2025-03-21 | 18:15:52 - fail to list file and sub-direct in ''
+2025-03-21 | 18:20:24 - Displayed disk usage information
+2025-03-21 | 18:20:43 - Displayed disk usage information
+2025-03-21 | 18:21:41 - Displayed disk usage information
+2025-03-21 | 18:23:02 - list file and sub-direct in '.'
+2025-03-21 | 18:23:34 - Succeeded in counting files in '.'
+2025-03-21 | 18:23:55 - Displayed disk usage information
+2025-03-21 | 18:25:11 - Displayed disk usage information
+2025-03-21 | 18:25:43 - Displayed disk usage information
+2025-03-21 | 18:26:56 - Displayed disk usage information of '.'
+2025-03-21 | 18:31:05 - File 'menu_option.sh' found in '.'
+2025-03-21 | 18:33:02 - File 'menu_option.sh' found in '.'
+2025-03-21 | 18:35:07 - Failed to compress '.'
+2025-03-21 | 18:39:33 - Successfully compressed '.' to 'new.zip'
