@@ -59,7 +59,7 @@ Follow the interactive prompts to use different features.
 + Logging System
 All user actions are recorded in script.log.
 You can view logs using:
-    cat script.log
+    ```cat script.log```
 
 + Contributing
     We are agroup of student from CADT majoring in computer science and this is our mini-project for operating system course
