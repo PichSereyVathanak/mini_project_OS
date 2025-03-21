@@ -32,8 +32,8 @@ Ensure you have the following installed:
 Clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/PichSereyVathanak/mini_project_OS.git
+cd mini_project_OS
 ```
 
 Grant execution permissions:
