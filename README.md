@@ -111,6 +111,12 @@ You can view logs using:
 cat script.log
 ```
 
+or: (For window)
+
+```sh
+type script.log
+```
+
 ---
 
 ## 👨‍💻 Contributing
