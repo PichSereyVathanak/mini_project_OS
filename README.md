@@ -134,11 +134,3 @@ We are a group of students from **CADT** majoring in **Computer Science**, and t
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
-Feel free to use our code if you need it! 🎉
-```
-
----
